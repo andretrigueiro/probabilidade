@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574718701470.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2833157419",
+    "id" : "26D3169",
+    "lastKnownWriteTime" : 1574708129,
+    "last_content_update" : 1574708129,
+    "path" : "D:/TI/IMD/probabilidade/unidade3/avaliacao_docencia/dplyr.R",
+    "project_path" : "dplyr.R",
+    "properties" : {
+        "cursorPosition" : "107,0",
+        "scrollLine" : "100"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

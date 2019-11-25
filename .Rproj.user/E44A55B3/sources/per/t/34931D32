@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574719433958.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "34931D32",
+    "lastKnownWriteTime" : 1996105903848,
+    "last_content_update" : 1574719433958,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D01F7502",
+        "caption" : "dados_docentes",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dados_docentes&cache_key=D01F7502",
+        "displayedObservations" : 2370,
+        "environment" : "",
+        "expression" : "dados_docentes",
+        "object" : "dados_docentes",
+        "preview" : 0,
+        "totalObservations" : 2370,
+        "variables" : 11
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

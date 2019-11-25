@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574703022810.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1048637280",
+    "id" : "94E15E9B",
+    "lastKnownWriteTime" : 1574719753,
+    "last_content_update" : 1574719753710,
+    "path" : "D:/TI/IMD/probabilidade/unidade3/avaliacao_docencia/avaliacao_docentes.R",
+    "project_path" : "avaliacao_docentes.R",
+    "properties" : {
+        "cursorPosition" : "137,0",
+        "scrollLine" : "108",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
